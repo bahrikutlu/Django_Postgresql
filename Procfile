@@ -1,0 +1,1 @@
+web: gunicorn Django_Postgresql.wsgi --log-file -
